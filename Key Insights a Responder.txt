@@ -1,0 +1,4 @@
+¿Cuál fue la acción del Merval con mejor retorno en los últimos 100 días?
+¿Qué acción fue más riesgosa (mayor volatilidad)?
+¿Cómo se movió el volumen operado — hubo picos inusuales?
+¿Cuál tiene la mejor relación riesgo/retorno?
